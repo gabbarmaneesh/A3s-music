@@ -6,6 +6,12 @@ const songs = [
     "category": "top picks"
   },
   {
+    "title": "Ajab Si",
+    "file": "songs/Ajab Si.mp3",
+    "cover": "images/cover.jpg",
+    "category": "latest"
+  }, 
+  {
     "title": "Arz Kiya Hai",
     "file": "songs/Arz Kiya Hai.mp3",
     "cover": "images/cover.jpg",
